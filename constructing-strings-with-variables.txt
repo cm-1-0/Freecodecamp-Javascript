@@ -1,0 +1,4 @@
+// Only change code below this line
+var myName = "Colin";
+var myStr;
+var ourStr = "My name is " + myName + "and I am well!"
